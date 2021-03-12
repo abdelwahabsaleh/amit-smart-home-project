@@ -15,8 +15,7 @@ main.d main.o: .././main.c .././CPU_CONFIGURATION.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\math.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\interrupt.h \
  .././STD_TYPES.h .././BIT_MATH.h .././DIO.h .././DIO_CONFIG.h .././LED.h \
- .././LED_CONFIG.h .././LCD.h .././LCD_CONFIG.h .././SPI.h \
- .././SPI_CONFIG.h
+ .././LED_CONFIG.h .././SPI.h .././SPI_CONFIG.h
 
 .././CPU_CONFIGURATION.h:
 
@@ -61,10 +60,6 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\
 .././LED.h:
 
 .././LED_CONFIG.h:
-
-.././LCD.h:
-
-.././LCD_CONFIG.h:
 
 .././SPI.h:
 

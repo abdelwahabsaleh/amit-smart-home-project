@@ -19,7 +19,6 @@
 #include "BIT_MATH.h"/*Bit math macros like functions*/
 #include "DIO.h"
 #include "LED.h"
-#include "LCD.h"
 #include "SPI.h"
 
 

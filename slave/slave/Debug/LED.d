@@ -15,8 +15,8 @@ LED.d LED.o: .././LED.c .././LED.h .././LED_CONFIG.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\util\delay_basic.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\math.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\interrupt.h \
- .././STD_TYPES.h .././BIT_MATH.h .././DIO.h .././DIO_CONFIG.h .././LCD.h \
- .././LCD_CONFIG.h .././SPI.h .././SPI_CONFIG.h
+ .././STD_TYPES.h .././BIT_MATH.h .././DIO.h .././DIO_CONFIG.h .././SPI.h \
+ .././SPI_CONFIG.h
 
 .././LED.h:
 
@@ -61,10 +61,6 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\
 .././DIO.h:
 
 .././DIO_CONFIG.h:
-
-.././LCD.h:
-
-.././LCD_CONFIG.h:
 
 .././SPI.h:
 
